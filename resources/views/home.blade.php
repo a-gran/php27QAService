@@ -39,7 +39,7 @@
           <th>||</th>
           <th>№</th>
           <th>Aвтор</th>
-          <th>Emailл</th>
+          <th>Email</th>
           <th>Вопрос</th>
           <th>Ответ</th>
           <th>Статус</th>
