@@ -6,10 +6,7 @@
 2. Установить библиотеки, выполнив в папке проекта команду: composer install
 3. В корне проекта скопировать файл .env.example и перемименовать его в .env
 4. В файле .env подсоединить пустую базу данных
-5. В папке проекта выполнить следующие команды:
-    php artisan key:generate
-    php artisan migrate
-    php artisan db:seed
+5. В папке проекта выполнить следующие команды: php artisan key:generate | php artisan migrate | php artisan db:seed
 
 ****************************************************************
 
